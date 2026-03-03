@@ -7,6 +7,7 @@
 3. [现代 C++ 风格](03-modern-cpp.md) - C++11/14/17 最佳实践
 4. [性能优化](04-performance.md) - 高效编程技巧
 5. [常见陷阱](05-pitfalls.md) - 易错点和解决方案
+6. [包管理](06-package-management.md) - Conan/vcpkg/FetchContent
 
 ## 附录
 
