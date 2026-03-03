@@ -8,6 +8,7 @@
 4. [性能优化](04-performance.md) - 高效编程技巧
 5. [常见陷阱](05-pitfalls.md) - 易错点和解决方案
 6. [包管理](06-package-management.md) - Conan/vcpkg/FetchContent
+7. [CMake 完全指南](07-cmake-guide.md) - 从基础到高级
 
 ## 附录
 

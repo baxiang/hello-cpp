@@ -27,8 +27,10 @@ g++ -std=c++17 -Wall -Wextra -O2 -o program main.cpp
 
 ## CMake 基础
 
+CMake 是跨平台的构建系统生成器，已成为现代 C++ 项目的标准构建工具。
+
+**最简单的 CMakeLists.txt**
 ```cmake
-# CMakeLists.txt
 cmake_minimum_required(VERSION 3.10)
 project(MyProject VERSION 1.0)
 
@@ -63,6 +65,8 @@ cmake --build .
 # 或
 make
 ```
+
+详细的 CMake 学习文档请查看：[CMake 完全指南](07-cmake-guide.md)
 
 ## Makefile 示例
 
