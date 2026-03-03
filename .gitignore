@@ -1,0 +1,40 @@
+# Compiled source
+*.o
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+
+# Build directories
+build/
+cmake-build-*/
+bin/
+obj/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.backup
