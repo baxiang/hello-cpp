@@ -142,6 +142,7 @@ C 和 C++ 编程技术文档，涵盖 C 语言、C++98、C++11、C++17 标准以
 - [5. 常见陷阱](05-best-practices/05-pitfalls.md) ✅
 - [6. 包管理](05-best-practices/06-package-management.md) ✅ - Conan/vcpkg/FetchContent
 - [7. CMake 完全指南](05-best-practices/07-cmake-guide.md) ✅
+- [8. VSCode 容器化开发环境](05-best-practices/08-dev-container/README.md) ✅ - Docker/Dev Containers
 
 #### 附录
 - [1. 设计模式](05-best-practices/a1-design-patterns.md) ✅
@@ -191,9 +192,9 @@ cmake --build .
 | C++98/03 | 17 节 |
 | C++11/14 | 12 节 |
 | C++17 | 5 节 |
-| 最佳实践 | 7 节 |
+| 最佳实践 | 12 节 |
 | 附录 | 3 节 |
-| **总计** | **72 节** |
+| **总计** | **77 节** |
 
 ## 🛠️ 工具推荐
 

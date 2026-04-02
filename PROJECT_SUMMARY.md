@@ -8,8 +8,8 @@
 | C++98/03 基础 | 7 节 | 22 |
 | C++11/14 新特性 | 6 节 | 21 |
 | C++17 新特性 | 4 节 | 9 |
-| 最佳实践 | 8 节 | 9 |
-| **总计** | **35 节** | **101** |
+| 最佳实践 | 13 节 | 14 |
+| **总计** | **40 节** | **106** |
 
 ## 文档结构
 
@@ -47,12 +47,20 @@ hello-cpp/
 │   ├── 2-optional-variant/            # optional/variant
 │   ├── 3-filesystem/                  # 文件系统
 │   └── 4-string-view/                 # string_view
-└── part5-best-practices/              # 最佳实践（8 节）
+└── part5-best-practices/              # 最佳实践（13 节）
     ├── 01-code-style.md               # 代码规范
     ├── 02-raii.md                     # RAII 原则
     ├── 03-modern-cpp.md               # 现代 C++ 风格
     ├── 04-performance.md              # 性能优化
     ├── 05-pitfalls.md                 # 常见陷阱
+    ├── 06-package-management.md       # 包管理
+    ├── 07-cmake-guide.md              # CMake 完全指南
+    ├── 08-dev-container/              # VSCode 容器化开发环境
+    │   ├── README.md                  # 概览
+    │   ├── 01-installation.md         # 环境安装与配置
+    │   ├── 02-configuration.md        # 配置文件示例
+    │   ├── 03-vscode-setup.md         # VSCode C++ 扩展配置
+    │   └── 04-troubleshooting.md      # 故障排除
     ├── a1-design-patterns.md          # 设计模式
     ├── a2-toolchain.md                # 编译工具链
     └── a3-debugging.md                # 调试技巧
