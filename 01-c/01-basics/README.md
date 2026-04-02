@@ -9,3 +9,4 @@
 3. [数据类型](03-data-types.md) - 基本类型、修饰符、sizeof
 4. [变量和常量](04-variables.md) - 声明、作用域、const
 5. [运算符](05-operators.md) - 算术、关系、逻辑、位运算
+6. [开发环境搭建](06-dev-environment.md) - 编译器安装、IDE 配置、调试工具
