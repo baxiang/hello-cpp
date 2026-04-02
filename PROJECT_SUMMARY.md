@@ -8,8 +8,8 @@
 | C++98/03 基础 | 7 节 | 22 |
 | C++11/14 新特性 | 6 节 | 21 |
 | C++17 新特性 | 4 节 | 9 |
-| 最佳实践 | 18 节 | 19 |
-| **总计** | **45 节** | **111** |
+| 最佳实践 | 23 节 | 24 |
+| **总计** | **50 节** | **116** |
 
 ## 文档结构
 
@@ -53,7 +53,13 @@ hello-cpp/
     ├── 03-modern-cpp.md               # 现代 C++ 风格
     ├── 04-performance.md              # 性能优化
     ├── 05-pitfalls.md                 # 常见陷阱
-    ├── 06-package-management.md       # 包管理
+    ├── 06-package-management/            # 包管理
+    │   ├── README.md                   # 概览
+    │   ├── 01-introduction.md          # 包管理概述
+    │   ├── 02-conan.md                 # Conan 使用指南
+    │   ├── 03-vcpkg.md                 # vcpkg 使用指南
+    │   ├── 04-fetchcontent.md          # FetchContent 使用
+    │   └── 05-best-practices.md        # 最佳实践
     ├── 07-cmake-guide/                 # CMake 完全指南
     │   ├── README.md                   # 概览
     │   ├── 01-basics.md                # CMake 基础
