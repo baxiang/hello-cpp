@@ -8,8 +8,8 @@
 | C++98/03 基础 | 7 节 | 22 |
 | C++11/14 新特性 | 6 节 | 21 |
 | C++17 新特性 | 4 节 | 9 |
-| 最佳实践 | 13 节 | 14 |
-| **总计** | **40 节** | **106** |
+| 最佳实践 | 18 节 | 19 |
+| **总计** | **45 节** | **111** |
 
 ## 文档结构
 
@@ -54,7 +54,14 @@ hello-cpp/
     ├── 04-performance.md              # 性能优化
     ├── 05-pitfalls.md                 # 常见陷阱
     ├── 06-package-management.md       # 包管理
-    ├── 07-cmake-guide.md              # CMake 完全指南
+    ├── 07-cmake-guide/                 # CMake 完全指南
+    │   ├── README.md                   # 概览
+    │   ├── 01-basics.md                # CMake 基础
+    │   ├── 02-libraries.md             # 库的构建与使用
+    │   ├── 03-dependencies.md          # 依赖管理
+    │   ├── 04-testing.md               # 测试集成
+    │   ├── 05-cross-platform.md        # 跨平台构建
+    │   └── 06-advanced.md              # 高级主题
     ├── 08-dev-container/              # VSCode 容器化开发环境
     │   ├── README.md                  # 概览
     │   ├── 01-installation.md         # 环境安装与配置
